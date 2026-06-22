@@ -20,3 +20,7 @@ Deliverables
 Interactive Power BI Dashboard
 SQL Queries
 Business Insights Report
+
+## Dashboard Preview
+
+Please refer to **High Cloud Airlines final draft.pdf** for dashboard screenshots and detailed analysis
